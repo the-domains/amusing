@@ -1,29 +1,41 @@
-name: AAmusing
-favicon: null
-layout_spectrum: 0.4407054400071502
-typography_spectrum: 0.023426726227626204
-title: AAmusing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.4242605683393776
+  saturation: 0.08064521942287683
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.42426056833937764
-  lightness: 0.33078086096793413
-  saturation: 0.08064521942287683
+  lightness: 0.3307808609679341
   rhythmicContrast: 0.07889734278433025
+title: AAmusing
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.4407054400071502
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: AAmusing
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.0234267262276262
