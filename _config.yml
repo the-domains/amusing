@@ -1,25 +1,8 @@
-color:
-  brandStrength: 0.4242605683393776
-  saturation: 0.08064521942287683
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  lightness: 0.3307808609679341
-  rhythmicContrast: 0.07889734278433025
-title: AAmusing
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  version: null
-  bucket: null
-  domain: null
+name: AAmusing
 favicon: null
 layout_spectrum: 0.4407054400071502
+typography_spectrum: 0.0234267262276262
+title: AAmusing
 collections:
   - index:
       navigable: true
@@ -32,10 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-name: AAmusing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.0234267262276262
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4242605683393776
+  lightness: 0.3307808609679341
+  saturation: 0.08064521942287683
+  rhythmicContrast: 0.07889734278433025
+purpose: []
