@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T10:44:50.317Z'
-dateModified: '2016-05-09T10:46:52.438Z'
+datePublished: '2016-05-12T10:47:56.708Z'
+dateModified: '2016-05-12T10:47:56.490Z'
 author: []
 title: Test pattern
 sourcePath: _posts/2016-03-26-test-pattern.md
