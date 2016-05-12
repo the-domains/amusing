@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Why bother thinking about things?
-datePublished: '2016-05-12T10:42:04.518Z'
-dateModified: '2016-05-12T10:41:56.079Z'
+datePublished: '2016-05-12T10:48:46.933Z'
+dateModified: '2016-05-12T10:42:12.173Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-youre-here.md
